@@ -1,4 +1,4 @@
-package com.devsuperior.dsmovie.servicies;
+package com.devsuperior.dsmovie.services;
 
 
 
