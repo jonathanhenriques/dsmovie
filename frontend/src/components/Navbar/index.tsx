@@ -10,7 +10,7 @@ function Navbar() {
                     <a href="https://github.com/jonathanhenriques">
                         <div className="dsmovie-contact-container">
                             <GithubIcon />
-                            <p className="dsmovie-contact-link">/jonathan</p>
+                            <p className="dsmovie-contact-link">/jonathanhenriques</p>
                         </div>
                     </a>
                 </div>
